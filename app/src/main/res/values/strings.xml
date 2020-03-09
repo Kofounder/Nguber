@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Nguber</string>
+
+    <string name="top_name">N G U B E R</string>
+    <string name="partner">PARTNER</string>
+    <string name="looking_for">LOOKING FOR THE RIDER APP?</string>
+
+    //Button Login
+    <string name="sign_in">SIGN IN</string>
+    <string name="register">REGISTER</string>
+
+    //Register Form
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

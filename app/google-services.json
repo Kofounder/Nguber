@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "342982998190",
+    "firebase_url": "https://nguber-f4333.firebaseio.com",
+    "project_id": "nguber-f4333",
+    "storage_bucket": "nguber-f4333.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342982998190:android:97553707be9c272965d53f",
+        "android_client_info": {
+          "package_name": "com.systema.nguber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342982998190-savna57sps2n78ohauvcqmd30812nglr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.systema.nguber",
+            "certificate_hash": "fbcbc376944ff3a20ff31a176ba5bd0da11c953e"
+          }
+        },
+        {
+          "client_id": "342982998190-m0f2sgjl0ue4moi1c4mju9kr604r5upb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDItDT4AdlzrKYmqyQmyIpv0NnFJouUo8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342982998190-m0f2sgjl0ue4moi1c4mju9kr604r5upb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
